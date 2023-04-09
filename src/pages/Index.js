@@ -21,9 +21,9 @@ const Index = () => (
       </header>
       <p>My interest to study physics behind fluid flow especially geophysical fluid flow
         lead me to join
-        <a href="https://sites.google.com/site/itsanikesh/"> Flow Physics Lab. </a>
+        <a href="https://sites.google.com/site/itsanikesh/"> <b style={{ color: '#566573' }}>Flow Physics Lab</b>. </a>
         I work with my guide
-        <a href="https://www.linkedin.com/in/anikesh-pal-84a47724/"> Dr. Anikesh Pal </a>
+        <a href="https://www.linkedin.com/in/anikesh-pal-84a47724/"><b style={{ color: '#566573' }}> Dr. Anikesh Pal </b></a>
         on many exciting problems. Also, we discuss trending topics such as
         ML applied to fluid flows, CUDA programming and stuff.
       </p>
