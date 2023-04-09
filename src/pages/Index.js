@@ -11,21 +11,22 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About this site</Link></h2>
+          <h1><Link to="/">About this site</Link></h1>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            This is my website. I keep updating my projects and relevant details here.
+            Keep checking to know more about CFD applied to geophysical flows, Direct
+            Numerical Simulation and Large Eddy Simulation etc.
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p>My interest to study physics behind fluid flow especially geophysical fluid flow
+        lead me to join
+        <a href="https://sites.google.com/site/itsanikesh/"> Flow Physics Lab. </a>
+        I work with my guide
+        <a href="https://www.linkedin.com/in/anikesh-pal-84a47724/"> Dr. Anikesh Pal </a>
+        on many exciting problems. Also, we discuss trending topics such as
+        ML applied to fluid flows, CUDA programming and stuff.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
   </Main>
 );

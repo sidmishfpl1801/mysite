@@ -1,15 +1,13 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'INDIAN INSTITUTE OF TECHNOLOGY, KANPUR 2021-Present',
+    degree: 'Ph.D. MECHANICAL ENGINEERING',
+    link: 'https://www.iitk.ac.in/',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'PDPM IIITD&M JABALPUR, 2016-2020',
+    degree: 'B.Tech MECHANICAL ENGINEERING',
+    link: 'https://www.iiitdmj.ac.in/',
   },
 ];
 
