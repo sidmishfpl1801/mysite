@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://qwerty740.github.io/personal-site-main",
+  "homepage": "https://sidmishfpl1801.github.io/mysite/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qwerty740/personal-site.git"
+    "url": "https://github.com/sidmishfpl1801/mysite.git"
   },
   "engines": {
     "node": ">=14.x"
