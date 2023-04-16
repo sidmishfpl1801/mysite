@@ -1,11 +1,11 @@
 {
   "name": "mysite",
   "version": "4.0.0",
-  "homepage": "https://sidmishfpl1801.github.io/mysite1",
+  "homepage": "https://sidmishfpl1801.github.io/mysite",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sidmishfpl1801/mysite1.git"
+    "url": "https://github.com/sidmishfpl1801/mysite.git"
   },
   "engines": {
     "node": ">=14.x"
