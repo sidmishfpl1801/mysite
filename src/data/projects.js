@@ -1,6 +1,18 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Simulation of Zonal flows in rotating-RBC',
+    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    // link: 'https://www.comsol.com/paper/superconducting-magnetic-system-83801',
+    image: '/images/projects/RBC_setup.png',
+    date: '2022-12-05',
+    desc:
+      'Working on flows along different latitudes of gas giants such as Jupiter, '
+      + 'with specific interest to flow along the equitorial regions called the zonal flows,'
+      + 'modelling them in rotating RBC setup, studying the dynamics and energetics of the same,'
+      + 'Ongoing, more to come after producible results are achieved.',
+  },
+  {
     title: 'Single Molecular Transistor',
     subtitle: '2015 BVP Hackathon',
     link: 'https://aip.scitation.org/doi/10.1063/5.0016104',
