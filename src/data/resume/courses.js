@@ -5,8 +5,8 @@ const courses = [
     university: 'IIT Kanpur',
   },
   {
-    title: 'Viscous Flow Theory',
-    number: 'ME:631Aaaaaaaaaa',
+    title: 'Viscous Flow gjjjjf',
+    number: 'ME:631Aa',
     university: 'IIT Kanpur',
   },
   {
